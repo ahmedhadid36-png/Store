@@ -1,0 +1,22 @@
+2ma-store/
+│
+├── index.php
+├── products.php
+├── product-details.php
+├── cart.php
+├── checkout.php
+│
+├── admin/
+│   ├── add-product.php
+│   └── dashboard.php
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── images/
+│
+└── config/
+    └── db.php
